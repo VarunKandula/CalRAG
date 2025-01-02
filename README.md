@@ -38,7 +38,7 @@ OPENAI_API_KEY=your_openai_api_key
 
 ```bash
 git clone https://github.com/yourusername/CalRAG.git
-cd CalRAG
+cd cal-rag
 ```
 
 2. Install dependencies:
