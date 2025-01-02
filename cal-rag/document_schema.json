@@ -1,0 +1,14 @@
+{
+  "course_id": "CS61A",
+  "title": "Structure and Interpretation of Computer Programs",
+  "description": "An introduction to programming and computer science.",
+  "prerequisites": ["None"],
+  "units": 4,
+  "instructors": ["John Doe"],
+  "schedule": {
+    "days": ["Monday", "Wednesday", "Friday"],
+    "time": "10:00-11:00 AM",
+    "location": "Dwinelle Hall"
+  },
+  "tags": ["Programming", "Introductory", "Python"]
+}
